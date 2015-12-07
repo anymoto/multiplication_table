@@ -8,7 +8,7 @@ ruby print_table.rb 8
 
 The program accepts an argument that indicates the prime numbers to get (N).
 In this case is 8 but you can specify any number greater than zero.
-If N is not present or it's not an integer, it will get the first
+If N is not present, it's not an integer or it's less than 1, it will get the first
 10 prime numbers.
 
 As a result, a multiplication table will be printed out. Like this:
