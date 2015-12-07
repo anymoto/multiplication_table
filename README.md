@@ -11,7 +11,7 @@ In this case is 8 but you can specify any number greater than zero.
 If N is not present, it's not an integer or it's less than 1, it will get the first
 10 prime numbers.
 
-As a result, a multiplication table will be printed out. Like this:
+As a result, a multiplication table will be printed out. For N = 8:
 ```
 X 2 3 5 7 11 13 17 19  
 2 4 6 10 14 22 26 34 38  
